@@ -1,0 +1,46 @@
+physician_id,physician_name,dept_id,years_experience
+PH101,Dr. Marcus Whitfield,1,5
+PH102,Dr. Sofia Brandt,1,22
+PH103,Dr. Omar Hughes,1,19
+PH104,Dr. Grace Ortega,1,13
+PH105,Dr. Tobias Delgado,1,13
+PH106,Dr. Maya Sharma,2,24
+PH107,Dr. Daniel Lindgren,2,5
+PH108,Dr. Elena Iyer,2,20
+PH109,Dr. James Alvarez,2,8
+PH110,Dr. Claire Novak,2,5
+PH111,Dr. Ravi Kowalski,3,16
+PH112,Dr. Leila Tanaka,3,27
+PH113,Dr. Ethan Patel,3,21
+PH114,Dr. Priya Bennett,3,22
+PH115,Dr. Hiro Haddad,3,20
+PH116,Dr. Nia Chen,4,22
+PH117,Dr. Luis Okafor,4,15
+PH118,Dr. Hannah Mensah,4,6
+PH119,Dr. Victor Farouk,4,23
+PH120,Dr. Amara Rossi,4,14
+PH121,Dr. Marcus Whitfield Jr.,5,15
+PH122,Dr. Sofia Brandt Jr.,5,12
+PH123,Dr. Omar Hughes Jr.,5,7
+PH124,Dr. Grace Ortega Jr.,5,26
+PH125,Dr. Tobias Delgado Jr.,5,22
+PH126,Dr. Maya Sharma Jr.,6,19
+PH127,Dr. Daniel Lindgren Jr.,6,13
+PH128,Dr. Elena Iyer Jr.,6,23
+PH129,Dr. James Alvarez Jr.,6,16
+PH130,Dr. Claire Novak Jr.,6,14
+PH131,Dr. Ravi Kowalski Jr.,7,14
+PH132,Dr. Leila Tanaka Jr.,7,8
+PH133,Dr. Ethan Patel Jr.,7,5
+PH134,Dr. Priya Bennett Jr.,7,16
+PH135,Dr. Hiro Haddad Jr.,7,25
+PH136,Dr. Nia Chen Jr.,8,4
+PH137,Dr. Luis Okafor Jr.,8,24
+PH138,Dr. Hannah Mensah Jr.,8,23
+PH139,Dr. Victor Farouk Jr.,8,9
+PH140,Dr. Amara Rossi Jr.,8,18
+PH141,Dr. Marcus Whitfield Jr.,9,7
+PH142,Dr. Sofia Brandt Jr.,9,21
+PH143,Dr. Omar Hughes Jr.,9,20
+PH144,Dr. Grace Ortega Jr.,9,11
+PH145,Dr. Tobias Delgado Jr.,9,4

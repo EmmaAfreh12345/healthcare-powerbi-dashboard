@@ -1,0 +1,10 @@
+dept_id,department_name,unit_type,licensed_beds
+1,Emergency,Acute,40
+2,Cardiology,Specialty,60
+3,Orthopedics,Surgical,45
+4,Oncology,Specialty,50
+5,Maternity,Acute,35
+6,General Surgery,Surgical,55
+7,ICU,Critical,30
+8,Pediatrics,Acute,30
+9,Neurology,Specialty,40

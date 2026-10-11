@@ -1,0 +1,23 @@
+icd10_code,diagnosis_description,diagnosis_category
+I50.9,"Heart failure, unspecified",Circulatory
+I21.9,"Acute myocardial infarction, unspecified",Circulatory
+I10,Essential hypertension,Circulatory
+R07.9,"Chest pain, unspecified",Symptoms
+J44.1,COPD with acute exacerbation,Respiratory
+J18.9,"Pneumonia, unspecified organism",Respiratory
+J45.901,Asthma with acute exacerbation,Respiratory
+A41.9,"Sepsis, unspecified organism",Infectious
+N39.0,Urinary tract infection,Genitourinary
+E11.65,Type 2 diabetes with hyperglycemia,Endocrine
+S72.90XA,"Fracture of femur, initial encounter",Injury
+M17.11,"Primary osteoarthritis, right knee",Musculoskeletal
+K35.80,"Acute appendicitis, unspecified",Digestive
+K80.20,Gallstones without obstruction,Digestive
+C50.919,Malignant neoplasm of breast,Neoplasms
+C34.90,Malignant neoplasm of lung,Neoplasms
+O80,Full-term uncomplicated delivery,Pregnancy
+O82,Cesarean delivery,Pregnancy
+I63.9,"Cerebral infarction, unspecified",Nervous
+G40.909,"Epilepsy, unspecified",Nervous
+J21.9,"Acute bronchiolitis, unspecified",Respiratory
+S06.0X0A,Concussion without loss of consciousness,Injury
